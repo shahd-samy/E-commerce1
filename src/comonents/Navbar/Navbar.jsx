@@ -1,5 +1,5 @@
 import { Link, NavLink } from 'react-router-dom'
-import logo from '../../assets/images/freshcart-logo.svg'
+//import logo from '../../assets/images/freshcart-logo.svg'
 import { LogOut, ShoppingCart } from 'lucide-react'
 import { useContext, useEffect } from 'react';
 import { tokenContext } from '../../context/Token.context';
